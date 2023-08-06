@@ -1,8 +1,8 @@
 <script>
-    import Header from '../+page.svelte';
+    import Navigation from "../+page.svelte";
 </script>
 
-<Header/>
+<Navigation/>
 <h1>Contact</h1>
 
 <style>

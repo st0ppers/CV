@@ -1,5 +1,5 @@
 <script>
-    import Navigation from "../+page.svelte"
+    import Navigation from "../+page.svelte";
     import Heading from "../shared/Heading.svelte";
     import Education from './Components/Education.svelte'
     import Experience from "./Components/Experience.svelte";
