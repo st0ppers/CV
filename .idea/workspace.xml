@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="removing link">
-      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+    <list default="true" id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="removing fonts">
       <change beforePath="$PROJECT_DIR$/src/routes/resume/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/resume/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,7 @@
       <workItem from="1690390482413" duration="1716000" />
       <workItem from="1690392228491" duration="3980000" />
       <workItem from="1690472587402" duration="9267000" />
-      <workItem from="1691331585409" duration="8791000" />
+      <workItem from="1691331585409" duration="9137000" />
     </task>
     <task id="LOCAL-00001" summary="Resume page - In progress. &#10;Project page - Done.&#10;Home page - Done.">
       <option name="closed" value="true" />
@@ -167,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691342302300</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change path to folders">
+      <option name="closed" value="true" />
+      <created>1691342639562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691342639562</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removing fonts">
+      <option name="closed" value="true" />
+      <created>1691342808852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691342808852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +206,8 @@
     <MESSAGE value="dummy commit" />
     <MESSAGE value="adding font" />
     <MESSAGE value="removing link" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing link" />
+    <MESSAGE value="change path to folders" />
+    <MESSAGE value="removing fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing fonts" />
   </component>
 </project>
