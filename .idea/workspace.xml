@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="Finished resume page" />
+    <list default="true" id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="adding font">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "st0ppers"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9c5195e4-5279-485f-988a-e7bc66380d51" />
+        <option name="url" value="https://github.com/st0ppers/CV.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -92,7 +109,7 @@
       <workItem from="1690390482413" duration="1716000" />
       <workItem from="1690392228491" duration="3980000" />
       <workItem from="1690472587402" duration="9267000" />
-      <workItem from="1691331585409" duration="7159000" />
+      <workItem from="1691331585409" duration="8412000" />
     </task>
     <task id="LOCAL-00001" summary="Resume page - In progress. &#10;Project page - Done.&#10;Home page - Done.">
       <option name="closed" value="true" />
@@ -110,7 +127,39 @@
       <option name="project" value="LOCAL" />
       <updated>1691340684622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691340914274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691340914274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691341027430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341027430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691341046049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341046049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding font">
+      <option name="closed" value="true" />
+      <created>1691341475768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341475768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +179,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resume page - In progress. &#10;Project page - Done.&#10;Home page - Done." />
     <MESSAGE value="Finished resume page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished resume page" />
+    <MESSAGE value="dummy commit2" />
+    <MESSAGE value="dummy commit" />
+    <MESSAGE value="adding font" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding font" />
   </component>
 </project>
