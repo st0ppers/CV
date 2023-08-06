@@ -51,7 +51,6 @@
         display: flex;
         padding: 0;
         margin: 4% 0 0 10%;
-        font-family: Roboto,monospace
     }
 
     .box{
@@ -101,10 +100,4 @@
         color: white;
     }
 
-    @font-face {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        src: local('Roboto'), local('Roboto'), url('https://fonts.googleapis.com/css2?family=Roboto&display=swap') format('woff2');
-    }
 </style>
