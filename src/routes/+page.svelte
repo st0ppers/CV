@@ -1,7 +1,7 @@
 <div class="wrapper">
-    <a href="./resume/+page.svelte">Resume</a>
-    <a href="./home/+page.svelte">About me</a>
-    <a href="./contact/+page.svelte">Contact</a>
+    <a href="./resume">Resume</a>
+    <a href="./home">About me</a>
+    <a href="./contact">Contact</a>
 </div>
 
 <style>
