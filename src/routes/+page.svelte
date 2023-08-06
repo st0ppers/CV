@@ -4,8 +4,6 @@
     <a href="/contact">Contact</a>
 </div>
 
-
-
 <style>
     .wrapper{
         display: flex;

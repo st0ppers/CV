@@ -1,110 +1,34 @@
 <script>
-    import Header from "../+page.svelte"
+    import Navigation from "../+page.svelte"
+    import Heading from "../shared/Heading.svelte";
+    import Education from './Components/Education.svelte'
+    import Experience from "./Components/Experience.svelte";
+    import SoftSkills from "./Components/SoftSkills.svelte";
+    import ProgrammingSkills from "./Components/ProgrammingSkills.svelte";
 </script>
 
-<Header/>
+<Navigation/>
+<Heading content="Resume"/>
 
-<div class="heading">
-    <h1>Resume</h1>
+<div class="row">
+    <Education/>
+    <Experience/>
 </div>
 
-<div class="wrapper">
-    <p class="title">Education</p>
-
-    <div class="box">
-        <p class="sub-point">
-            2014 - 2019
-        </p>
-        <div class="inner-box">
-            Highschool diploma
-        </div>
-    </div>
-    <div class="sub-point-box">
-        <p class="sub-heading">
-            PGASG "Architect Kamen Petkov"
-        </p>
-    </div>
-
-    <div class="box">
-        <p class="sub-point">
-            2021 - Current
-        </p>
-        <div class="inner-box">
-            Bachelor's degree
-        </div>
-    </div>
-    <div class="sub-point-box">
-        <p class="sub-heading">
-            Paisii Hilendarski University of Plovdiv
-        </p>
-    </div>
+<div class="row">
+    <SoftSkills/>
+    <ProgrammingSkills/>
 </div>
+
 <style>
-
-    .wrapper {
-        width: 50%;
-        margin-left: 10%;
-    }
-
-    .title {
-        font-size: 20px;
+    .row {
         display: flex;
-        padding: 0;
-        margin: 4% 0 0 10%;
-        font-family: Roboto,monospace
-    }
-
-    .box{
-        display: flex;
-        margin-left: 10%;
-    }
-
-    .sub-point {
-        border-radius: 60px;
-        border: solid rgb(0, 124, 237);
-        padding: 2px 5px;
-    }
-
-    .inner-box {
-        display: flex;
-        align-items: center;
-        color: gray;
-        padding-left: 10px;
-    }
-
-    .sub-point-box {
-        display: flex;
-        margin: 0 14%;
-    }
-
-    .sub-heading {
-        padding: 0;
-        margin: 0;
-    }
-
-    .heading {
-        padding: 0.2%;
-        border-bottom: solid #333333;
-        border-top: solid #333333;
-    }
-
-    h1 {
-        color: white;
-        margin-left: 3%;
-    }
-
-    p {
-        color: white;
+        flex-direction: row;
+        margin-top: 30px;
     }
 
     div {
         color: white;
-    }
-
-    @font-face {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        src: local('Roboto'), local('Roboto'), url('https://fonts.googleapis.com/css2?family=Roboto&display=swap') format('woff2');
+        font-family: Roboto, monospace
     }
 </style>
