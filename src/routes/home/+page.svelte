@@ -5,6 +5,6 @@
         <p>Hello,</p>
         <p>I am <b>Alexander Damov</b>, junior full stack developer currently working in DraftKings</p>
         <p>Also I am pursuing a bachelors degree in Software technology.</p>
-        <a href="/projects">My projects</a>
+        <a href="./projects">My projects</a>
     </div>
 </div>
