@@ -29,7 +29,6 @@
 
     div {
         color: white;
-        font-family: Roboto, monospace
     }
 </style>
 
