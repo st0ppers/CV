@@ -1,8 +1,3 @@
-<script>
-    import Header from "../+page.svelte"
-</script>
-
-<Header/>
 <h1>My projects</h1>
 <ul>
     <li>
@@ -18,27 +13,3 @@
         <p>Academy project for DraftKings</p>
     </li>
 </ul>
-<style>
-    h1 {
-        color: white;
-    }
-
-    ul {
-        color: white;
-        list-style: none;
-    }
-
-    li {
-        color: white;
-        padding: 10px;
-    }
-
-    a {
-        color: white;
-    }
-
-    p {
-        color: white;
-        display: flex;
-    }
-</style>
