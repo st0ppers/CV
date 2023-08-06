@@ -27,7 +27,6 @@
         margin-top: 30px;
     }
 
-
     div {
         color: white;
         font-family: Roboto, monospace
