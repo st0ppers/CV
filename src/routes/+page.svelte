@@ -1,7 +1,7 @@
 <div class="wrapper">
-    <a href="../resume">Resume</a>
-    <a href="../home">About me</a>
-    <a href="../contact">Contact</a>
+    <a href="resume">Resume</a>
+    <a href="home">About me</a>
+    <a href="contact">Contact</a>
 </div>
 
 <style>
