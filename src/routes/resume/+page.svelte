@@ -1,23 +1,23 @@
 <script>
     import Navigation from "../+page.svelte";
-    // import Heading from "../shared/Heading.svelte";
-    // import Education from './Components/Education.svelte'
-    // import Experience from "./Components/Experience.svelte";
-    // import SoftSkills from "./Components/SoftSkills.svelte";
-    // import ProgrammingSkills from "./Components/ProgrammingSkills.svelte";
+    import Heading from "../shared/Heading.svelte";
+    import Education from './Components/Education.svelte'
+    import Experience from "./Components/Experience.svelte";
+    import SoftSkills from "./Components/SoftSkills.svelte";
+    import ProgrammingSkills from "./Components/ProgrammingSkills.svelte";
 </script>
 
 <Navigation/>
-<!--<Heading content="Resume"/>-->
+<Heading content="Resume"/>
 
 <div class="row">
-<!--    <Education/>-->
-<!--    <Experience/>-->
+ <Education/>
+<Experience/>
 </div>
 
 <div class="row">
-<!--    <SoftSkills/>-->
-<!--    <ProgrammingSkills/>-->
+<SoftSkills/>
+<ProgrammingSkills/>
 </div>
 
 <style>
@@ -33,4 +33,3 @@
     }
 
 </style>
-
