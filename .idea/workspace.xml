@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="removing fonts">
+      <change beforePath="$PROJECT_DIR$/src/routes/resume/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/resume/+page.svelte" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="+page" />
+        <option value="fonts" />
+        <option value="CSS File" />
+        <option value="Educatoin" />
+        <option value="Experience" />
+        <option value="SoftSkills" />
+        <option value="ProgrammingSkills" />
+        <option value="Heading" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "st0ppers"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9c5195e4-5279-485f-988a-e7bc66380d51" />
+        <option name="url" value="https://github.com/st0ppers/CV.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2T7O1H5beXXBHBw3W95qJCy2JG9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "ts.external.directory.path": "C:\\Users\\Coding\\CV\\CV\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Coding\CV\CV\static" />
+      <recent name="C:\Users\Coding\CV\CV\static\styles" />
+      <recent name="C:\Users\Coding\CV\CV\src\routes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1c63ea1-93a0-47c8-addc-6eba32327f78" name="Changes" comment="" />
+      <created>1690390436583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690390436583</updated>
+      <workItem from="1690390438120" duration="30000" />
+      <workItem from="1690390482413" duration="1716000" />
+      <workItem from="1690392228491" duration="3980000" />
+      <workItem from="1690472587402" duration="9267000" />
+      <workItem from="1691331585409" duration="9137000" />
+    </task>
+    <task id="LOCAL-00001" summary="Resume page - In progress. &#10;Project page - Done.&#10;Home page - Done.">
+      <option name="closed" value="true" />
+      <created>1690481982173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690481982173</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished resume page">
+      <option name="closed" value="true" />
+      <created>1691340684622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691340684622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691340914274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691340914274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691341027430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341027430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dummy commit">
+      <option name="closed" value="true" />
+      <created>1691341046049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341046049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding font">
+      <option name="closed" value="true" />
+      <created>1691341475768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691341475768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removing link">
+      <option name="closed" value="true" />
+      <created>1691342302300</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691342302300</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change path to folders">
+      <option name="closed" value="true" />
+      <created>1691342639562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691342639562</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removing fonts">
+      <option name="closed" value="true" />
+      <created>1691342808852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691342808852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resume page - In progress. &#10;Project page - Done.&#10;Home page - Done." />
+    <MESSAGE value="Finished resume page" />
+    <MESSAGE value="dummy commit2" />
+    <MESSAGE value="dummy commit" />
+    <MESSAGE value="adding font" />
+    <MESSAGE value="removing link" />
+    <MESSAGE value="change path to folders" />
+    <MESSAGE value="removing fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing fonts" />
+  </component>
+</project>
