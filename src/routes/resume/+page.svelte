@@ -11,13 +11,13 @@
 <Heading content="Resume"/>
 
 <div class="row">
- <Education/>
-<Experience/>
+    <Education/>
+    <Experience/>
 </div>
 
 <div class="row">
-<SoftSkills/>
-<ProgrammingSkills/>
+    <SoftSkills/>
+    <ProgrammingSkills/>
 </div>
 
 <style>
