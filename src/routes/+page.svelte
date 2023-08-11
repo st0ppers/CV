@@ -1,7 +1,10 @@
+<script lang="ts">
+    import {base} from "$app/paths";
+</script>
 <div class="wrapper">
-    <a href="./resume">Resume</a>
-    <a href="./home">About me</a>
-    <a href="./contact">Contact</a>
+    <a href="{base}/resume">Resume</a>
+    <a href="{base}/home">About me</a>
+    <a href="{base}/contact">Contact</a>
 </div>
 
 <style>
