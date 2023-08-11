@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
     import Navigation from "../+page.svelte";
     import Heading from "../shared/Heading.svelte";
     import Education from './Components/Education.svelte'
@@ -11,13 +11,13 @@
 <Heading content="Resume"/>
 
 <div class="row">
-    <Education/>
-    <Experience/>
+ <Education/>
+<Experience/>
 </div>
 
 <div class="row">
-    <SoftSkills/>
-    <ProgrammingSkills/>
+<SoftSkills/>
+<ProgrammingSkills/>
 </div>
 
 <style>
@@ -31,5 +31,5 @@
         color: white;
         font-family: Roboto, monospace
     }
-</style>
 
+</style>

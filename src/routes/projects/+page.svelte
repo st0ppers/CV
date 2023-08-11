@@ -18,6 +18,7 @@
         <p>Academy project for DraftKings</p>
     </li>
 </ul>
+
 <style>
     h1 {
         color: white;
