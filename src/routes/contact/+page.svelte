@@ -5,7 +5,7 @@
     import Cellphone from "svelte-material-icons/Cellphone.svelte";
     import Mail from "svelte-material-icons/Email.svelte";
 </script>
-<div>
+<div class="container">
     <Navigation/>
     <Heading content="Contact"/>
     <div class="wrapper">
@@ -63,7 +63,10 @@
         font-family: Roboto, monospace
     }
 
-    .view-height {
-        height: 100vh;
+    .container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh
     }
+
 </style>
