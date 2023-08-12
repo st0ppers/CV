@@ -48,7 +48,6 @@
 
     .img {
         width: 50%;
-        margin-left: 10%;
     }
 
     .picture {
@@ -58,7 +57,6 @@
     .text-content {
         text-align: center;
         color: white;
-        font-weight: bold;
         font-size: 1.5rem;
         font-family: Roboto, monospace
     }
@@ -66,7 +64,8 @@
     .container {
         display: flex;
         flex-direction: column;
-        min-height: 100vh
+        min-height: 100vh;
+        overflow: hidden;
     }
 
 </style>

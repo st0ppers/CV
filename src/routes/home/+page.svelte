@@ -32,8 +32,15 @@
 
     .main-text{
         width: 60%;
-        padding: 30px;
     }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        overflow: hidden;
+    }
+
     img {
         width: 20%;
         height: 20%;
@@ -56,10 +63,5 @@
         width: 100%;
         font-size: 20px;
         font-family: Roboto, monospace
-    }
-    .container{
-        display: flex;
-        flex-direction: column;
-        min-height: 100vh;
     }
 </style>
